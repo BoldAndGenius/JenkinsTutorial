@@ -1,1 +1,1 @@
-print("This is homepage")c
+print("This is homepage")
